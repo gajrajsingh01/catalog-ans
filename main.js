@@ -49,10 +49,6 @@ const inputData = readInput();
 const points = processInput(inputData);
 const valueOfC = interpolate(points, 0, points.length);
 
-
-console.log(points);
-
-
 console.log(valueOfC);
 
 
