@@ -29,5 +29,5 @@ Place your input data in the ```input.json``` file. The application reads from t
 ### Output
 The application will produce outputs based on the data provided. Example outputs for the test cases are:
 
-Output for Test Case 1: ```2.9999999999987``` \
+Output for Test Case 1: ```2.9999999999999987``` \
 Output for Test Case 2: ```33198405829207.97```
